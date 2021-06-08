@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Suvir	</title>
+	Comments for Suvir	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://suvir1408.github.io/huy1408</link>
 	<description>Trang web về website</description>
