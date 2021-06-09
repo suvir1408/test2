@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Suvir	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://suvir1408.github.io/test2</link>
+	Comments on: Học HTM	</title>
+	<atom:link href="http://localhost/myproject/wordpress/blog/hoc-htm/feed/" rel="self" type="application/rss+xml" />
+	<link>https://suvir1408.github.io/test2/blog/hoc-htm/</link>
 	<description>Trang web về website</description>
-	<lastBuildDate>Wed, 09 Jun 2021 02:22:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Jun 2021 02:21:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
